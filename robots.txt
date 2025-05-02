@@ -1,0 +1,6 @@
+robots_txt = """User-agent: *
+Disallow: /d/
+Disallow: /404.html
+Allow: /
+
+Sitemap: https://hix.one/sitemap.xml
